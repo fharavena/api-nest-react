@@ -3,8 +3,8 @@
 MySQL
 ``` MySQL
 $ CREATE DATABASE sendmeapp;
-$ CREATE USER 'nuevo'@'localhost' IDENTIFIED BY 'app';
-$ GRANT ALL PRIVILEGES ON `borrame`.* TO 'nuevo'@'localhost';
+$ CREATE USER 'nest'@'localhost' IDENTIFIED BY 'app';
+$ GRANT ALL PRIVILEGES ON `borrame`.* TO 'nest'@'localhost';
 ```
 
 bash 1: back-end
