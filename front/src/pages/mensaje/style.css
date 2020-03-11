@@ -1,0 +1,39 @@
+.mensaje-list {
+  list-style: none;
+  padding: 0;  
+}
+
+.mensaje-item-text-edit{
+    margin: 0 0 0 .5rem;
+}
+
+.mensaje-nick-label{
+    margin: 0px !important;
+    line-height: 25px;
+}
+
+.mensaje-label{
+    margin-left: 5px !important;
+    line-height: 25px;
+}
+
+
+.mensaje-item{
+    display: flex;
+    justify-content: normal;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: .25rem;
+}
+
+.mensaje-item-action{
+    margin: 0 .5rem 0 0;
+}
+
+.new-mensaje-item{
+    margin-bottom: .5rem;
+}
+
+.mensaje-item-label{
+    margin-bottom: 0px !important;
+}
